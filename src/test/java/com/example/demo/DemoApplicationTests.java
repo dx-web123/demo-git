@@ -12,6 +12,6 @@ class DemoApplicationTests {
 
     @Test
     void testGit() {
-        System.out.println("测试git");
+        System.out.println("这是master分支的第三次提交");
     }
 }
