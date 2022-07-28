@@ -12,8 +12,7 @@ class DemoApplicationTests {
 
     @Test
     void testGitHub() {
-        System.out.println("测试远程提交代码到github");
-        System.out.println("测试第二次提交");
+        System.out.println("测试ssh");
     }
 
     @Test
