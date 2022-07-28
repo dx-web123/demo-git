@@ -11,6 +11,11 @@ class DemoApplicationTests {
     }
 
     @Test
+    void testGitHub() {
+        System.out.println("测试远程提交代码到github");
+    }
+
+    @Test
     void testHotFix() {
         System.out.println("这是hot-fix分支");
     }
