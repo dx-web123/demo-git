@@ -11,11 +11,6 @@ class DemoApplicationTests {
     }
 
     @Test
-    void testGit() {
-        System.out.println("这是master分支的第三次提交");
-    }
-
-    @Test
     void testHotFix() {
         System.out.println("这是hot-fix分支");
     }
