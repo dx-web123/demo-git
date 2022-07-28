@@ -10,5 +10,8 @@ class DemoApplicationTests {
     void contextLoads() {
     }
 
-
+    @Test
+    void testHotFix() {
+        System.out.println("这是hot-fix分支");
+    }
 }
