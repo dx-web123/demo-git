@@ -10,6 +10,7 @@ class DemoApplicationTests {
     void contextLoads() {
         System.out.println("测试pull");
         System.out.println("测试pull");
+        System.out.println("测试pull");
     }
 
     @Test
