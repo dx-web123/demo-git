@@ -10,4 +10,8 @@ class DemoApplicationTests {
     void contextLoads() {
     }
 
+    @Test
+    void testGit() {
+        System.out.println("测试git");
+    }
 }
