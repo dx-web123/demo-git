@@ -11,6 +11,7 @@ class DemoApplicationTests {
         System.out.println("测试pull");
         System.out.println("测试pull");
         System.out.println("测试pull");
+        System.out.println("测试clone");
     }
 
     @Test
